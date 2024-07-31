@@ -2,7 +2,7 @@ package baitapbuoi2;
 
 import java.util.Scanner;
 
-public class Bai3buoi3 {
+public class Bai3buoi2 {
 public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
 	int n; 
